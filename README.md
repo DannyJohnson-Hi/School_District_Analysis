@@ -26,7 +26,7 @@ The School Board will like to understand the impact of changing all the grade 9 
 ![Table_for_District_Analysis_Original](https://github.com/DannyJohnson-Hi/School_District_Analysis/blob/main/Images/A.png)
 
 ***Top Schools - Updated***
-![Table_for_District_Analysis_New](https://github.com/DannyJohnson-Hi/School_District_Analysis/blob/main/Images/b.png)- The change of adding Nan to all grade 9 Thomas High School math and reading scores did not have a large impact on the district analysis, with each metric decresing by less that 0.5 percentage point each (meaning scores changed by less than 0.5%).  It's important to consider there are only 461 students in grade 9 at Thomas High School, and given the total student count is 39,170. the grade 9 students only make up 1.2% of the total student count, so removing their math and reading scores can only impact the averages so much.
+![Table_for_District_Analysis_New](https://github.com/DannyJohnson-Hi/School_District_Analysis/blob/main/Images/b.png)- The change of adding Nan to all grade 9 - Thomas High School math and reading scores did not have a large impact on the district analysis. With each metric decreasing by less than 0.5 percentage point each (meaning scores changed by less than 0.5%).  It's important to consider there are only 461 students in grade 9 at Thomas High School, and given the total student count is 39,170. the grade 9 students only make up 1.2% of the total student count, so removing their math and reading scores can only impact the averages so much.
 
 ### Impact on the School Summary & Thomas High School Relative Performance
 ***Top Schools - Original***
